@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=iInspection
+comment1.params=
+comment1.target=java.lang.String\ getLocation()
+comment2.params=
+comment2.target=java.lang.String\ getHospitalName()
+comment3.params=
+comment3.target=int\ getYearsSinceInspection()
+comment4.params=
+comment4.target=java.lang.String\ getInspectionNeeded()
+numComments=5

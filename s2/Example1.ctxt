@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Example1
+comment1.params=empno\ ename\ salary
+comment1.target=Example1(int,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

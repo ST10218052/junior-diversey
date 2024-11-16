@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Example1Demo
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=e1\ e2
+comment2.target=int\ compare(Example1,\ Example1)
+comment3.params=e1\ e2
+comment3.target=int\ compare(Example1,\ Example1)
+comment4.params=e1\ e2
+comment4.target=int\ compare(Example1,\ Example1)
+comment5.params=e1\ e2
+comment5.target=int\ compare(Example1,\ Example1)
+comment6.params=e1\ e2
+comment6.target=int\ compare(Example1,\ Example1)
+comment7.params=e1\ e2
+comment7.target=int\ compare(Example1,\ Example1)
+numComments=8

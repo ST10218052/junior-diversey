@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Inspection
+comment1.params=
+comment1.target=Inspection()
+comment10.params=
+comment10.target=java.lang.String\ getInspectionNeeded()
+comment11.params=
+comment11.target=void\ store()
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment2.params=loc\ hosp\ years\ in
+comment2.target=Inspection(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment3.params=loc
+comment3.target=void\ setLocation(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getLocation()
+comment5.params=hosp
+comment5.target=void\ setHospitalName(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getHospitalName()
+comment7.params=years
+comment7.target=void\ setYearsSinceInspection(int)
+comment8.params=
+comment8.target=int\ getYearsSinceInspection()
+comment9.params=in
+comment9.target=void\ setInspectionNeeded(java.lang.String)
+numComments=13
